@@ -2,13 +2,13 @@
 
 > *"Security is not a product, but a process."*
 
-Aspiring cybersecurity professional from Bogotá, Colombia 🇨🇴 | 15 y/o developer & ethical hacking enthusiast.
+Aspiring cybersecurity professional from Bogotá, Colombia 🇨🇴 | developer & ethical hacking enthusiast.
 
 ---
 
 ## 🧠 About me / Sobre mí
 
-- 🔐 Studying cybersecurity — Cisco NetAcad certified, TryHackMe Pre-Security in progress
+- 🔐 Studying cybersecurity — Cisco NetAcad certified, Hack The Box Academy
 - 🐧 Daily driving **Kali Linux** | Previously Arch & Debian user
 - 💻 Building Discord bots and web dashboards in my free time
 - 🛡️ Passionate about ethical hacking, penetration testing & digital privacy
@@ -43,7 +43,6 @@ Aspiring cybersecurity professional from Bogotá, Colombia 🇨🇴 | 15 y/o dev
 | Certificate | Issuer | Year |
 |---|---|---|
 | Introduction to Cybersecurity | Cisco Networking Academy | 2026 |
-| Pre-Security *(in progress)* | TryHackMe | 2026 |
 
 ---
 
@@ -64,10 +63,10 @@ Aspiring cybersecurity professional from Bogotá, Colombia 🇨🇴 | 15 y/o dev
 
 ## 🌐 Currently learning
 
-- TryHackMe — Pre-Security & Jr Penetration Tester paths
+- Hack The Box - Jr Penetration Tester paths
 - Networking fundamentals (TCP/IP, DNS, HTTP)
 - Web application security
 
 ---
 
-*Bogotá, Colombia 🇨🇴 — Kennedy*
+*Bogotá, Colombia 🇨🇴*
